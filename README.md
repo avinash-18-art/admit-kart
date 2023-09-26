@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Write the objective of the assignment yourself
 
 ### Refer to the image below:
@@ -113,3 +114,6 @@ Add the text and background colours to be used in the assignment yourself.
 - Add the font-families to be used in the assignment yourself.
 
 </details>
+=======
+# admit-kart
+>>>>>>> b31fb368136ef8e141ae3db1c771920f95ce6fe8
